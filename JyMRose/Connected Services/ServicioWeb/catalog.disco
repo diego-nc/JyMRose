@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://179.49.21.58:8089/cotizador_movil_internal/catalog.asmx?wsdl" docRef="http://179.49.21.58:8089/cotizador_movil_internal/catalog.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://179.49.21.58:8089/cotizador_movil_internal/catalog.asmx" xmlns:q1="http://tempuri.org/" binding="q1:CatalogSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://179.49.21.58:8089/cotizador_movil_internal/catalog.asmx" xmlns:q2="http://tempuri.org/" binding="q2:CatalogSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
